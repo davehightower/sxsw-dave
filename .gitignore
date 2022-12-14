@@ -1,6 +1,7 @@
 .DS_Store
 .grunt
 .other
+.yetanother
 dist
 node_modules
 
